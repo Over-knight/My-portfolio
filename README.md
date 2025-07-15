@@ -10,7 +10,7 @@
 * **Languages:** Go, TypeScript, Python, JavaScript, HTML
 * **Frameworks & Libraries:** Gin, Fiber, Express.js, NestJS
 * **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-* **Tools & Infrastructure:** Docker, Kubernetes, Kafka, RabbitMQ, GitHub Actions, CI/CD
+* **Tools & Infrastructure:** Docker, Kubernetes, Kafka, RabbitMQ, Prisma ORM, GitHub Actions, CI/CD
 * **AI & Data:** Vertex AI, Jupyter, Scikit-learn
 
 ---
