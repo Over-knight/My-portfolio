@@ -7,11 +7,11 @@
 
 ## 🚀 Core Skills
 
-* **Languages:** Go, TypeScript, Python, JavaScript, HTML
-* **Frameworks & Libraries:** Gin, Fiber, Express.js, NestJS
-* **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-* **Tools & Infrastructure:** Docker, Kubernetes, Kafka, RabbitMQ, Prisma ORM, GitHub Actions, CI/CD
-* **AI & Data:** Vertex AI, Jupyter, Scikit-learn
+* **Languages:** Go, TypeScript, Python, JavaScript, HTML  
+* **Frameworks & Libraries:** Gin, Fiber, Express.js, NestJS  
+* **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+* **Tools & Infrastructure:** Docker, Kubernetes, Kafka, RabbitMQ, Prisma ORM, GitHub Actions, CI/CD  
+* **AI, Voice & Data:** Vertex AI, Jupyter, Scikit-learn, Speech-to-Text / Text-to-Speech, Voice Authentication, Accessibility-focused design
 
 ---
 
@@ -52,15 +52,25 @@ Building an IoT light management platform:
 **Languages & Tools:** Python, Scikit-learn, Kubernetes, Docker
 
 * Developed ML-based anomaly detection models (Isolation Forest, Autoencoders).
-* Integrated detection endpoints into fintech microservices for real-time monitoring.
+* Integrated detection endpoints into fintech microservices for real-time monitoring.  
 * Link: [GitHub Repo](https://github.com/Over-knight/Fraud-Detection-System)
+
+### Emphatech
+
+**Languages & Tools:** Go, Node.js, PostgreSQL, Speech-to-Text, Text-to-Speech, Voice Authentication
+
+* Accessibility-first fintech hackathon project that enables visually-impaired users to use banking features via voice.
+* Built voice-driven flows for sending/receiving money, purchasing airtime/recharge cards, and navigating accounts without a screen.
+* Implemented secure voice-authentication and integrated STT/TTS for command parsing and audio feedback.
+* Developed backend APIs and integrations with payment/recharge providers for low-latency transactions.  
+* Link: [GitHub Repo](https://github.com/Over-knight/EmphaTech)
 
 ### Distributed Microservices Fintech App
 
 **Languages & Tools:** Go, gRPC, Kafka, PostgreSQL, Docker
 
 * Architected event-driven microservices for account management and transactions.
-* Implemented gRPC services and Kafka topics for reliable messaging.
+* Implemented gRPC services and Kafka topics for reliable messaging.  
 * Link: [GitHub Repo](https://github.com/Over-knight)
 
 ### AI-Powered Resume Builder
@@ -68,32 +78,24 @@ Building an IoT light management platform:
 **Languages & Tools:** Node.js (NestJS), Puppeteer, OpenAI API
 
 * Built backend API to enhance and generate resume PDFs using GPT models.
-* Integrated dynamic PDF generation for customizable layouts.
+* Integrated dynamic PDF generation for customizable layouts.  
 * Link: [GitHub Repo](https://github.com/Over-knight/Ai-Resume-Builder)
-
-### Job Board Platform with Recommendation Engine
-
-**Languages & Tools:** JavaScript, Node.js, PostgreSQL, Elasticsearch
-
-* Created RESTful APIs for job postings, applications, and user management.
-* Implemented Elasticsearch for efficient search and filtering.
-* Developed collaborative-filtering recommendation engine.
-* Link: [GitHub Repo](https://github.com/Over-knight/Job-Board-Platform)
 
 ### Multi-User Inventory Management System
 
 **Languages & Tools:** Go, PostgreSQL, WebSocket, JWT
 
 * Designed multi-tenant schema with role-based access control.
-* Implemented real-time stock validation via WebSockets and low-stock alerts.
+* Implemented real-time stock validation via WebSockets and low-stock alerts.  
 * Link: [GitHub Repo](https://github.com/Over-knight/Multi-User-Inventory)
 
 ---
 
 ## 📫 Let’s Connect
 
-* Email: [iraborvd@gmail.com](mailto:iraborvd@gmail.com)
-* GitHub: [Over-knight](https://github.com/Over-knight)
+* Email: [iraborvd@gmail.com](mailto:iraborvd@gmail.com)  
+* GitHub: [Over-knight](https://github.com/Over-knight)  
+* LinkedIn: [irabor-victor-957111281](https://www.linkedin.com/in/irabor-victor-957111281)
 
 ---
 
