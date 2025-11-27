@@ -73,25 +73,25 @@ Backend Engineer with hands-on experience designing and operating production mic
 ## Projects (selected)
 
 ### AI-Powered Fraud Detection System  
-**Python, Scikit-learn, Kubernetes, Docker**  
+**Python, Typescript, Scikit-learn, Kubernetes, Docker**  
 - Built anomaly detection models (Isolation Forest, Autoencoders) and integrated model-serving endpoints with transaction pipelines.  
 - Added CI checks and tests for model-serving; reduced false-positive investigation time by **50%**.  
 - Repo: https://github.com/Over-knight/Fraud-Detection-System
 
 ### Distributed Microservices Fintech App  
-**Go, gRPC, Kafka, PostgreSQL, Docker**  
+**Typescript, gRPC, Kafka, PostgreSQL, Docker**  
 - Architected event-driven microservices for account management and transaction processing using Kafka and gRPC.  
 - Established CI/CD pipelines and containerized services for reliable deployments.  
 - Repo: https://github.com/Over-knight
 
 ### Emphatech (Accessibility-first Fintech)  
-**Go / Node.js, PostgreSQL, STT/TTS**  
+**Node.js, Python, MongoDB, STT/TTS**  
 - Voice-first banking flows, voice-authentication, and low-latency payment integrations for visually-impaired users.  
 - Conducted rapid user testing and iterated on prompts for improved accessibility.  
 - Repo: https://github.com/Over-knight/EmphaTech
 
 ### Multi-User Inventory Management System  
-**Go, PostgreSQL, WebSocket, JWT**  
+**Typescript, MongoDB, WebSocket, JWT**  
 - Multi-tenant schema design, role-based access control, and real-time stock validation through WebSockets.  
 - Integrated unit/integration tests and CI checks to improve reliability.  
 - Repo: https://github.com/Over-knight/Multi-User-Inventory
